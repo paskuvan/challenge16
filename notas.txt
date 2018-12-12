@@ -1,0 +1,4 @@
+David: su promedio en total es 3.6
+Gonzalo: su promedio en total es 5.25
+Mai: su promedio en total es 9.5
+JP: su promedio en total es 10.0
